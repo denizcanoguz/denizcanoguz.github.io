@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: Deniz Can Oguz
+bio: Hi there, I am Data Scientist. I am interest in with this field.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -19,7 +19,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://denizcanoguz.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -32,13 +32,12 @@ disqus:
   shortname: github # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
-# if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# if you don't have any of social below, comment the linefacebook: myfacebook
+twitter: [DenizC_O]
+instagram: [denizcnogz/]
+linkedin: [denizcanoguz/]
+github: [denizcanoguz]
+email: [denizcan.oguz@yandex.com]
 
 authors:
   johndoe:
