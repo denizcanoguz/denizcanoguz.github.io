@@ -17,7 +17,7 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1r8_medUSpQ3cSvDf4nvdNWgITfLUlfNm/view?usp=sharing
 
 url: https://denizcanoguz.github.io
 # your url: https://USERNAME.github.io
@@ -67,10 +67,10 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true 
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+# about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
